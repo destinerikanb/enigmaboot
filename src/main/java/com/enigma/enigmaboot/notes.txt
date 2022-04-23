@@ -1,0 +1,8 @@
+controller nerima dto dan pageable (body json)
+controller ngirim dto dan pageable ke service
+service nerima pagable dan dto
+service manggil si specification disuruh ngolah si dto
+balikan hasil olahan specification itu di jadikan parameter repo
+repo nerima pageable dan customerSpecification
+repo mengembalikan hasil ke service
+service ngembaliin lagi ke controller
